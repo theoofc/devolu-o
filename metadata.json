@@ -1,0 +1,10 @@
+{
+  "name": "Devoluções",
+  "description": "Plataforma inteligente de controle e gerenciamento de devoluções de e-commerce com análise de IA.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
